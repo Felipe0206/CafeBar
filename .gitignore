@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración de bases de datos locales
+*.sqlite3
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos estáticos generados
+staticfiles/
+
+# Archivos de migración
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
