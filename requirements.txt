@@ -1,0 +1,4 @@
+Django>=4.0
+djangorestframework>=3.14
+python-decouple>=3.8
+Pillow>=9.0  # Para manejar imágenes
